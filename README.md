@@ -18,7 +18,7 @@
         <h2>Preview</h2>
         <h3>View</h3>
         <h6>Playing some functionalies</h6>
-        <img src="view.gif" alt="Chopper Simulator Preview" width="500px">
+        <img src="view.gif" alt="Chopper Simulator Preview" width="700px">
         <h3>Idle</h3>
         <h6>chopper engine is off</h6>
         <img src="1.png" alt="Chopper Simulator Preview" width="500px">
