@@ -28,9 +28,7 @@
         <h3>Night mode</h3>
         <h6>Night mode</h6>
         <img src="3.png" alt="Chopper Simulator Preview" width="500px">
-        <h2>Usage</h2>
-        <p>To play the game, simply open the <code>index.html</code> file in your web browser. Use the Shift key to control speed, Q/W/E keys to rotate, and arrow keys to move the helicopter.</p>
-        <h2>Contributing</h2>
+         <h2>Contributing</h2>
         <p>Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.</p>
         <h2>License</h2>
         <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
