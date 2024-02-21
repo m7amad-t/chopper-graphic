@@ -4,7 +4,7 @@
     </header>
     <div class="container">
         <h2>Description</h2>
-        <p>Welcome to Chopper Simulator! This project is a simple 2D helicopter simulation game built using HTML, CSS, and JavaScript. It allows players to control a helicopter and fly around in a 2D environment. The simulator includes features such as day and night mode, variable speed control, rotation control, movement control, sound effects, and a user-friendly interface.</p>
+        <p>Welcome to Chopper Simulator! This project is a simple 2D helicopter simulation is Build in OpenGL in Java. It allows players to control a helicopter and fly around in a 2D environment. The simulator includes features such as day and night mode, variable speed control, rotation control, movement control, sound effects, and a user-friendly interface.</p>
         <h2>Features</h2>
         <ul>
             <li>Simple 2D helicopter simulation game.</li>
