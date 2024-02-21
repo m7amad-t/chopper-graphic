@@ -16,7 +16,7 @@
             <li>User-friendly interface.</li>
         </ul>
         <h2>Preview</h2>
-        <img src="2.png" alt="Chopper Simulator Preview">
+        <img src="2.png" alt="Chopper Simulator Preview" width="200px">
         <h2>Usage</h2>
         <p>To play the game, simply open the <code>index.html</code> file in your web browser. Use the Shift key to control speed, Q/W/E keys to rotate, and arrow keys to move the helicopter.</p>
         <h2>Contributing</h2>
