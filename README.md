@@ -16,14 +16,14 @@
             <li>User-friendly interface.</li>
         </ul>
         <h2>Preview</h2>
-        <h4>Idle</h4>
-        <h5>chopper engine is off</h5>
+        <h3>Idle</h3>
+        <h6>chopper engine is off</h6>
         <img src="1.png" alt="Chopper Simulator Preview" width="500px">
-        <h4>Engine on</h4>
-        <h5>chopper engine is on and its ready to fly</h5>
+        <h3>Engine on</h3>
+        <h6>chopper engine is on and its ready to fly</h6>
         <img src="2.png" alt="Chopper Simulator Preview" width="500px">
-        <h4>Night mode</h4>
-        <h5>Night mode</h5>
+        <h3>Night mode</h3>
+        <h6>Night mode</h6>
         <img src="3.png" alt="Chopper Simulator Preview" width="500px">
         <h2>Usage</h2>
         <p>To play the game, simply open the <code>index.html</code> file in your web browser. Use the Shift key to control speed, Q/W/E keys to rotate, and arrow keys to move the helicopter.</p>
