@@ -24,7 +24,7 @@
         <h2>License</h2>
         <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
         <h2>Contact</h2>
-        <p>If you have any questions or suggestions, feel free to contact the project maintainer at <a href="mailto:mhamadtahir2003@gmail.com">your.email@example.com</a>.</p>
+        <p>If you have any questions or suggestions, feel free to contact the project maintainer at <a href="mailto:mhamadtahir2003@gmail.com">mhamadtahir2003@gmail.com</a>.</p>
         <p>visite my <a href="https://m7amad-t.web.app">protfolio</a>.</p>
     </div>
 </body>
