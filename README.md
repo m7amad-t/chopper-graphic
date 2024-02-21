@@ -58,7 +58,6 @@
             <h2>Overview</h2>
             <p>Welcome to the OpenGL Java project! This project provides a collection of Java code examples and utilities for working with OpenGL, a powerful graphics library for rendering 2D and 3D graphics.</p>
         </section>
-
         <section>
             <h2>Features</h2>
             <ul>
@@ -67,7 +66,6 @@
                 <li>Utility classes to simplify OpenGL development in Java.</li>
             </ul>
         </section>
-
         <section>
             <h2>Installation</h2>
             <ol>
@@ -79,9 +77,6 @@
                 <li>Set up the project dependencies and configurations as needed.</li>
             </ol>
         </section>
-
-        <!-- Add more sections as needed -->
-
         <section>
             <h2>Screenshots</h2>
             <img src="images/screenshot1.png" alt="Screenshot 1">
@@ -89,22 +84,18 @@
             <img src="images/screenshot2.png" alt="Screenshot 2">
             <p>Description of Screenshot 2.</p>
         </section>
-
         <section>
             <h2>Demo</h2>
             <img src="images/demo.gif" alt="Demo GIF">
         </section>
-
         <section>
             <h2>Contributing</h2>
             <p>Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.</p>
         </section>
-
         <section>
             <h2>License</h2>
             <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
         </section>
-
         <section>
             <h2>Contact</h2>
             <p>For questions or inquiries about this project, feel free to contact the project maintainer at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
